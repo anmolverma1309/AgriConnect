@@ -2,14 +2,10 @@
 
 **End-to-End AI-Powered Agricultural Platform**
 
-AgriConnect is an award-winning, comprehensive platform designed to empower farmers with the latest advancements in Artificial Intelligence and predictive modeling. It bridges the gap between sophisticated technology and the agricultural sector, offering actionable insights directly to the hands of farmers.
+AgriConnect is a comprehensive platform designed to empower farmers with the latest advancements in Artificial Intelligence and predictive modeling. It bridges the gap between sophisticated technology and the agricultural sector, offering actionable insights directly to the hands of farmers.
 
 ---
 
-## 🏆 Awards & Recognition
-*   **Winner, Udaya 1.0 Hackathon** (₹15,000 Prize)
-
----
 
 ## 🚀 Key Features
 
@@ -36,4 +32,4 @@ By combining highly accurate computer vision for disease diagnosis with predicti
 
 ---
 
-*Built with ❤️ by Sagarverse.*
+
