@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+:root {
+  --primary: #2ECC71;
+  --secondary: #3498db;
+  --text: #333;
+  --light-text: #555;
+  --background: #f8f8f8;
+  --alt-background: #f2f2f2;
+  --border: #ddd;
+  --header-bg: #fff;
+  --footer-bg: #2c3e50;
+  --white: #ffffff;
+}
+
+@theme inline {
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-text: var(--text);
+  --color-light-text: var(--light-text);
+  --color-background: var(--background);
+  --color-alt-background: var(--alt-background);
+  --color-border: var(--border);
+  --color-header-bg: var(--header-bg);
+  --color-footer-bg: var(--footer-bg);
+}
+
+body {
+  background: var(--background);
+  color: var(--text);
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+}
