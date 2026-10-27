@@ -32,4 +32,4 @@ By combining highly accurate computer vision for disease diagnosis with predicti
 
 ---
 
-
+*Built with ❤️ by Anmol Verma.*

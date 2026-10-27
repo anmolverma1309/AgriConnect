@@ -7,7 +7,7 @@ const REELS = [
   { id: '2', title: "Organic Pest Control Methods", author: "Green Farms", views: "8.5K", likes: "890", duration: "1:12" },
   { id: '3', title: "Drip Irrigation Setup Guide", author: "AgriTech", views: "25K", likes: "3.1K", duration: "0:58" },
   { id: '4', title: "Soil Preparation Before Sowing", author: "Krishna", views: "15K", likes: "1.5K", duration: "0:42" },
-  { id: '5', title: "Tomato Plant Care Tips", author: "Sagar M", views: "9.2K", likes: "980", duration: "1:05" },
+  { id: '5', title: "Tomato Plant Care Tips", author: "Anmol Verma", views: "9.2K", likes: "980", duration: "1:05" },
   { id: '6', title: "Tractor Maintenance Basics", author: "Ramesh Mechanic", views: "18K", likes: "2.2K", duration: "1:30" },
 ];
 

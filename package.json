@@ -1,7 +1,8 @@
 {
-  "name": "agriconnect-temp",
+  "name": "agriconnect",
   "version": "0.1.0",
   "private": true,
+  "author": "Anmol Verma",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

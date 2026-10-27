@@ -15,8 +15,8 @@ interface Profile {
 export default function ProfilePage() {
   const [editing, setEditing] = useState(false);
   const [profile, setProfile] = useState<Profile>({
-    name: 'Sagar M',
-    email: 'sagar@example.com',
+    name: 'Anmol Verma',
+    email: 'aanmolverma1309@gmail.com',
     phone: '+91 9019989269',
     location: 'Bannikuppe, Karnataka',
     landArea: '4.5',

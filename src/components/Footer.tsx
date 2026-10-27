@@ -37,7 +37,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-600 mt-6 pt-6 text-center text-gray-400 text-sm">
-          © 2024 AgriConnect. All rights reserved.
+          © 2024 AgriConnect. Developed by Anmol Verma. All rights reserved.
         </div>
       </div>
     </footer>
